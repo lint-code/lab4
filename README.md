@@ -1,7 +1,4 @@
-# This is ListView
+＃第四次实验
 
-![](https://i.loli.net/2018/04/02/5ac1961167dbf.jpg)
+<img src="https://github.com/lintao2018/lab4/blob/master/images/8GWNXK%25G%5DW2%605()9%24F%60WH2Q.png" height="100" alt="Screenshot"/>
 
-
-
-![](https://i.loli.net/2018/04/02/5ac1962ab9cd0.jpg)
